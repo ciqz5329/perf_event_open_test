@@ -1,0 +1,1 @@
+Cannot create directory /home/acmachines/tmp/tmp.F8o0RUHE0W/cmake-build-debug: `mkdir "/home/acmachines/tmp/tmp.F8o0RUHE0W/cmake-build-debug"` failed with exit code 1: stdout='', stderr='mkdir: cannot create directory '/home/acmachines/tmp/tmp.F8o0RUHE0W/cmake-build-debug': Permission denied'

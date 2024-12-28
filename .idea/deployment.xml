@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <serverData>
+      <paths name="Remote Host (32890181-0504-469a-bd14-ff0c1f77555f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/perf_event_open_test" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-host" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

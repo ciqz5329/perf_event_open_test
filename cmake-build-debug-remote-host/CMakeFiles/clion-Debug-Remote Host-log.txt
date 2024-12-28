@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -S /home/acmachines/perf_event_open_test -B /home/acmachines/perf_event_open_test/cmake-build-debug-remote-host
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/acmachines/perf_event_open_test/cmake-build-debug-remote-host

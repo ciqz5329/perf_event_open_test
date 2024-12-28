@@ -1,0 +1,3 @@
+/mnt/hgfs/ShareDir/perf_event_open_test/build/CMakeFiles/perf_event_open_test.dir
+/mnt/hgfs/ShareDir/perf_event_open_test/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ShareDir/perf_event_open_test/build/CMakeFiles/rebuild_cache.dir
